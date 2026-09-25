@@ -1,0 +1,1 @@
+Add PNG assets here when branded extension icons are available. Then add `16`, `32`, `48`, and `128` paths to `manifest.json`.

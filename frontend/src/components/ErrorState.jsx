@@ -1,0 +1,1 @@
+export default function ErrorState({ onRetry }) { return <section className="state-panel error-state"><div className="state-icon">!</div><h2>Something went wrong</h2><p>RateWise couldn’t fetch comparison data right now.</p><button className="secondary-button" type="button" onClick={onRetry}>Retry <span aria-hidden="true">↻</span></button></section>; }

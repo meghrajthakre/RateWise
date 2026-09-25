@@ -1,0 +1,1 @@
+export default function LoadingState() { return <section className="state-panel loading-state" aria-live="polite"><div className="loader-mark">✦</div><h2>Finding better rates…</h2><p>Comparing available providers</p><div className="skeleton-line" /><div className="skeleton-line short" /></section>; }
